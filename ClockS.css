@@ -1,0 +1,103 @@
+#container h4{
+    margin: auto;
+    font-size: 50px;
+    margin-left: 26.6vw;
+    margin-bottom: 20px;
+    color: red;
+    position: relative;
+}
+
+#ClockContainer{
+    position: relative;
+    margin: auto;
+
+    width: 40vw;
+    height: 40vw;
+    background: url(Clock.png) no-repeat ;
+    background-size: 100%;
+}
+
+#hour, #min, #sec{
+    position: absolute;
+    background-color: black;
+    transform-origin: bottom;
+}
+
+#hour{
+    height: 26%;
+    width: 1.6%;
+    left: 49.6%;
+    top: 24%;
+    
+}
+
+#min{
+    height: 34%;
+    width: 1.8%;
+    left: 49.4%;
+    top: 16%;
+    
+}
+
+#sec{
+    height: 36%;
+    width: 0.9%;
+    left: 50%;
+    top: 13%;
+}
+
+#header h4{
+    margin: auto;
+    font-size: 50px;
+    margin-left: 26.6vw;
+    margin-bottom: 20px;
+    margin-top: 36px;
+    color: red;
+    position: relative;
+}
+#digitalclockcontainer{
+    list-style: none;
+    margin-top: 5vw;
+    margin-left: 30vw;
+}
+
+#digitalclockcontainer li{
+    float: left;
+    padding: 5px;
+    font-size: 4vw;
+   
+  
+}
+
+#one{
+    position: relative;
+    font-size: 49px;
+    margin-top: 80px;
+    margin-left: -227px;
+}
+#two{
+    font-size: 49px;
+    margin-top: 80px;
+    margin-left: -227px;
+}
+#three{
+    font-size: 49px;
+    margin-top: 80px;
+    margin-left: -227px;
+}
+#dighour{
+    
+    margin-top: -129px;
+    margin-left: 150px;
+}
+
+#digmin{
+  
+    margin-top: -129px;
+    margin-left: 190px;
+}
+
+#digsec{
+    margin-top: -129px;
+    margin-left: 180px;
+}

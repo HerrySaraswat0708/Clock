@@ -9,15 +9,15 @@ Digital clock display with hours, minutes, and seconds.
 Analog clock representation with hour, minute, and second hands.
 Real-time updating of the clock to reflect the current time.
 # Usage
-To use the clock project, follow these steps:
+1. To use the clock project, follow these steps:
 
 Clone this repository to your local machine:
 git clone https://github.com/your-username/clock-project.git
 Open the index.html file in a web browser.
 
-The digital clock and analog clock will be displayed on the webpage.
+2. The digital clock and analog clock will be displayed on the webpage.
 
-The clocks will automatically update in real-time to show the current time.
+3. The clocks will automatically update in real-time to show the current time.
 
 # Customization
 If you wish to customize the clock project, you can modify the HTML and CSS files as per your requirements. The index.html file contains the structure of the webpage, while the styles.css file handles the styling of the clocks.

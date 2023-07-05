@@ -9,9 +9,9 @@ Digital clock display with hours, minutes, and seconds.
 Analog clock representation with hour, minute, and second hands.
 Real-time updating of the clock to reflect the current time.
 # Usage
-1. To use the clock project, follow these steps:
+To use the clock project, follow these steps:
 
-Clone this repository to your local machine:
+1. Clone this repository to your local machine:
 git clone https://github.com/your-username/clock-project.git
 Open the index.html file in a web browser.
 
